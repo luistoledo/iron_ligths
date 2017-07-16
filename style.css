@@ -4,13 +4,13 @@ body {
 }
 h1, h2, h3 {
   font-family: 'Slabo 27px', serif;
+  margin-bottom: 0.1em;
 }
 h1 {
   font-size:4em;
 }
 h2 {
   font-size:3em;
-  margin-bottom: 0.1em;
 }
 
 
